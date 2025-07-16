@@ -1,61 +1,85 @@
-📜 Tau Wallet Privacy Policy
-Effective Date: [7/16/2025]
-Last Updated: [7/16/2025]
+# 📜 Tau Wallet Privacy Policy
+
+**Effective Date:** _July 16, 2025_  
+**Last Updated:** _July 16, 2025_
 
 Tau Wallet ("we", "our", or "us") is committed to respecting your privacy and protecting any data you share with us. This Privacy Policy explains how we collect, use, and protect your information when you use Tau Wallet on the Pi Network Testnet.
 
-1. 📡 Data We Collect
-Tau Wallet is a non-custodial, blockchain-based wallet, and we do not collect or store any personally identifiable information (PII) on our servers.
+---
 
-However, the following non-personal and technical data may be collected or accessed:
+## 1. 📡 Data We Collect
 
-Public Wallet Address: Needed to process blockchain transactions.
+Tau Wallet is a **non-custodial, blockchain-based wallet**, and we **do not collect or store any personally identifiable information (PII)** on our servers.
 
-Session-based TOTP Codes: Used temporarily for 2FA verification. Never stored.
+However, the following **non-personal and technical data** may be collected or accessed:
 
-Blockchain Data: All transactions and smart contract interactions are public on the Pi Testnet.
+- **Public Wallet Address** — Needed to process blockchain transactions.  
+- **Session-based TOTP Codes** — Used temporarily for 2FA verification. _Never stored._  
+- **Blockchain Data** — All smart contract interactions are public on the Pi Testnet.  
+- **Device Metadata** — Pi Browser may share anonymized data like IP address or browser version via their SDK.
 
-Device Metadata: Pi Browser may share anonymized data such as IP address or browser version as part of their SDK.
+---
 
-2. 🔐 How We Use Your Data
-Your data is used only for the following:
+## 2. 🔐 How We Use Your Data
 
-To verify your identity using on-chain TOTP (2FA).
+We use your data solely to:
 
-To authorize transactions based on your smart contract interactions.
+- ✅ Verify your identity using on-chain TOTP (2FA)  
+- ✅ Authorize transactions via smart contracts  
+- ✅ Interact with the Pi Network SDK for authentication and payments  
+- ✅ Debug or improve the app (e.g., via crash logs or anonymous analytics)
 
-To interact with the Pi Network SDK for authentication and payments.
+> **We do not share, sell, or rent your data. Ever.**
 
-To debug or improve the app (e.g., via error logs).
+---
 
-We do not share, sell, or rent your data to any third parties.
+## 3. 🛡️ Data Security
 
-3. 🛡️ Data Security
-Tau Wallet does not store your seed phrases, private keys, or TOTP secrets. Your keys and secrets remain entirely under your control.
+Tau Wallet does **not store your seed phrase, private keys, or TOTP secret**. You control your own keys and secrets.
 
-Security measures include:
+We protect your security using:
 
-On-chain TOTP verification
+- 🔐 On-chain TOTP verification  
+- 🔄 Hashed time-window checks (never store TOTP codes)  
+- 📦 No storage of secrets or passwords  
+- ⚙️ Smart contract–based access control
 
-Hashed time-window checks
+---
 
-No storage of secrets or 2FA codes
+## 4. 👤 Your Responsibility
 
-Smart contract–based access control
+Since Tau Wallet is non-custodial, **you are fully responsible** for safeguarding your:
 
-4. 👤 Your Control & Responsibility
-Because Tau Wallet is non-custodial, you are fully responsible for safeguarding your private keys, mnemonics, and 2FA secret.
+- Private Keys  
+- Mnemonics / Seed Phrases  
+- 2FA Secret Key
 
-We cannot recover your access if your credentials are lost.
+> ⚠️ We cannot recover your wallet access if any of these are lost.
 
-5. 🧾 Compliance with Pi Network Guidelines
-Tau Wallet integrates the Pi Network SDK and follows its development guidelines. Any personal data handled through the SDK is governed by Pi Network's own privacy practices.
+---
 
-For more information, see https://minepi.com.
+## 5. 🧾 Compliance with Pi Network Guidelines
 
-6. 📝 Changes to This Privacy Policy
-We may update this Privacy Policy as the app evolves. Changes will be reflected on this page with a new effective date.
+Tau Wallet integrates the **Pi Network SDK** and follows Pi Network’s development guidelines.
 
-7. 📬 Contact Us
-For any questions regarding this Privacy Policy, you can reach us at:
-Email: [blocklesschain2gmail.com]
+Any data handled through the SDK is governed by Pi Network’s privacy practices.
+
+👉 Visit: [https://minepi.com](https://minepi.com)
+
+---
+
+## 6. 📝 Changes to This Policy
+
+We may update this Privacy Policy as Tau Wallet evolves. Any changes will be posted here with an updated effective date.
+
+---
+
+## 7. 📬 Contact Us
+
+Have questions or feedback?
+
+- 📧 Email: blocklesschain@gmail.com_  
+- 💬 Telegram: coming soon_  
+- 🐙 GitHub: coming soon_
+
+---
